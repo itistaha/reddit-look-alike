@@ -1,11 +1,8 @@
 # Fluttery
 
-A new Flutter application - [Hackernoon Post](https://hackernoon.com/i-love-you-flutter-fd7c30b2047e)
+A new Flutter application - 
 
 ## Getting Started
-
-## APK (Android)
-[Download App (Android)](https://rink.hockeyapp.net/api/2/apps/9a9d590c8845483a8045599576848aba/app_versions/4?format=apk&avtoken=d7ad2058e4a2541e3278811a5a06dd090f7d781e)
 
 ## Screenshots
 
